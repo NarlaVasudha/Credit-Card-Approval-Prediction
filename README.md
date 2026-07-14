@@ -1,4 +1,3 @@
-# Credit-Card-Approval Prediction
 # Credit Card Approval Prediction
 
 ## Project Description
@@ -37,4 +36,4 @@ Banks receive thousands of credit card applications daily. Manual verification i
 - P Mahitha
 
 ## Demo Video
-[Link to video in Project Demonstration folder]
+https://drive.google.com/file/d/1RyIe5TgbZhxyGDKwjXZF4YP38vfnb2sY/view
